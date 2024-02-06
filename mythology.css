@@ -1,0 +1,62 @@
+#swornin, #onmars, #wine {
+    width: 30%
+}
+
+img {
+    display: block;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.center{
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+h1, h2, h3 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-family: Georgia, Times, serif;
+}
+
+header {
+    background-color: #ffd4d1;
+}
+
+footer {
+    background-color: #c9837d;
+    height: 150px;
+    border-style: solid;
+}
+
+a:hover {
+    color: #539119;
+}
+
+.subheader {
+    font-weight: bold;
+}
+
+#Holy-Scripture {
+    color: #FFD700;
+}
+
+header:first-child {
+    font-size: 125%;
+}
+
+body {
+    background-color: #fceae8;
+}
